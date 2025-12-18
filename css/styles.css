@@ -1,0 +1,228 @@
+body {
+  background-color: #fff;
+  color: #434455;
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+/* --------------ALL SECTION-------------- */
+
+.section-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.section-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.section-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+/* --------------HEADER-------------- */
+
+.header {
+}
+
+.header-navigation {
+}
+
+.header-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+
+.header-logo span {
+  color: #4d5ae5;
+}
+
+.header-navigation-list {
+}
+
+.header-navigation-link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.header-navigation-link:hover,
+.header-navigation-link:focus {
+  color: #404bbf;
+}
+
+.header-address {
+}
+
+.header-address-list {
+}
+
+.header-address-link {
+  font-weight: 400;
+  font-size: 16px;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.header-address-link:hover,
+.header-address-link:focus {
+  color: #404bbf;
+}
+
+/* --------------MAIN-SLOGAN-------------- */
+
+.slogan {
+  background: #2e2f42;
+}
+
+.slogan-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+
+.slogan-btn {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background: #4d5ae5;
+  cursor: pointer;
+}
+
+.slogan-btn:hover,
+.slogan-btn:focus {
+  background: #404bbf;
+}
+
+/* --------------MAIN-FUTURES-------------- */
+
+.futures-title {
+}
+
+.futures-list {
+}
+
+.futures-listitem {
+}
+
+.futures-subtitle {
+}
+
+.futures-text {
+}
+
+/* --------------MAIN-TEAM-------------- */
+
+.tean {
+  background: #f4f4fd;
+}
+
+.team-title {
+}
+.team-list {
+}
+
+.team-listitem {
+  background: #fff;
+}
+
+.team-img {
+}
+
+.team-subtitle {
+  text-align: center;
+}
+
+.team-text {
+  text-align: center;
+}
+
+/* --------------MAIN-PORTFOLIO-------------- */
+
+.portfolio {
+}
+
+.portfolio- {
+}
+
+.title {
+}
+
+.portfolio-list {
+}
+
+.portfolio-listitem {
+}
+
+.portfolio-link {
+}
+
+.portfolio-img {
+}
+
+.portfolio-subtitle {
+  color: #2e2f42;
+}
+
+.portfolio-text {
+  color: #434455;
+}
+
+/* --------------FOOTER-------------- */
+
+.footer {
+  background: #2e2f42;
+}
+
+.footer-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
+}
+
+.footer-logo span {
+  color: #4d5ae5;
+}
+
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
