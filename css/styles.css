@@ -207,15 +207,10 @@ h6 {
 .futures-listitem {
   width: calc((100% - 72px) / 4);
 }
-s
 
 /* --------------MAIN-TEAM-------------- */
-
-.tean {
+.team {
   background: #f4f4fd;
-}
-
-.team-title {
 }
 
 .team-list {
