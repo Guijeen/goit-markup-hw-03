@@ -87,7 +87,7 @@ h6 {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
-  margin-right: 78px;
+  margin-right: 76px;
   padding: 24px 0;
 }
 
@@ -97,7 +97,7 @@ h6 {
 
 .header-navigation-list {
   display: flex;
-  gap: 24px;
+  gap: 40px;
 }
 
 .header-navigation-link {
@@ -142,11 +142,8 @@ h6 {
 /* --------------MAIN-SLOGAN-------------- */
 
 .slogan {
+  padding: 188px 0;
   background: #2e2f42;
-}
-
-.slogan .container {
-  padding: 68px 0 68px 0;
 }
 
 .slogan-title {
@@ -185,7 +182,7 @@ h6 {
 
 /* --------------MAIN-FUTURES-------------- */
 
-.futures-title {
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
